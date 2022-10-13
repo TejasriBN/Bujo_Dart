@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "750274699244",
+    "project_id": "bujo-328513",
+    "storage_bucket": "bujo-328513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750274699244:android:922e1e75f581e2bca96ac9",
+        "android_client_info": {
+          "package_name": "com.istrides.bujo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750274699244-9tsunij0nqds0cdachqnjcpu9h016smo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA27yyB787wOGceqTrFXom4XMkjejkAFhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750274699244-9tsunij0nqds0cdachqnjcpu9h016smo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
